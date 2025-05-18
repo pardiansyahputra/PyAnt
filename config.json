@@ -1,0 +1,15 @@
+{
+  "max_url_length": 200,
+  "suspicious_keywords": [
+    "malware",
+    "virus",
+    "phishing",
+    "scam",
+    "login",
+    "bank",
+    "account",
+    "free",
+    "gift"
+  ],
+  "default_blacklist_url": "https://raw.githubusercontent.com/firehol/blocklist-ipdb/master/urlhaus-domains.txt"
+}
